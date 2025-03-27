@@ -9,8 +9,6 @@
 
 <br />
 <br />
-Hi, I'm Berkant Tuğberk Demirtaş, 4'th year Computer Engineering student at METU NCC.
-
 
 
 - 📫 How to reach me *berkanttugberk@gmail.com* 
